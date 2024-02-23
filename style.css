@@ -32,3 +32,6 @@ body{
     width: 100%;
     font-size: 32px;
 }
+.título-principal span{
+    color: var(--verde2);
+}
