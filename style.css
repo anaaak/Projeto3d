@@ -6,9 +6,12 @@
     --amarelo: #FFB35A;
     --roxoclaro: #EA97FF;
     --roxoescuro: #BF60B6;
-    --verde2: rgba(8, 74, 86, 0.5);
-    --botao-ativo: rgba(17, 209, 243, 0.795);
-    --texto-fundo: rgba(13, 105, 122, 0.3);
+    --verde2:#58FF1D;
+    --verde3: #68FF33;
+    --botao1: rgba(113, 169, 142, 1);
+    --botao2: rgba(191, 96, 182, 0.5);
+    --botao3:rgba(255, 179, 90, 1);
+    --botao4: rgba(234, 151, 255, 0.5);
 }
 }
 body{
