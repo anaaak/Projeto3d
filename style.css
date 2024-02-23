@@ -13,7 +13,7 @@
     --botao3:rgba(255, 179, 90, 1);
     --botao4: rgba(234, 151, 255, 0.5);
 }
-}
+
 body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
