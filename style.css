@@ -47,6 +47,6 @@ body{
     width: 100%;
     border-bottom: 4px solid var(--verde2);
     border-left: 2px solid var(--verde2);
-    border-right: 2px solid var(--botao2);
+    border-right: 2px solid var(--verde2);
     border-top: none;
 }
