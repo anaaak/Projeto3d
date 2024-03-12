@@ -58,7 +58,7 @@ body{
 }
 .ativo{
     background-color: var(--roxoescuro);
-    border-bottom: var(--roxoclaro);
+    border-bottom: var(--verde2);
 
 }
 @media screen and (min-width: 768px){
